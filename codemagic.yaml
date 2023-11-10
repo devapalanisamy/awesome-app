@@ -9,7 +9,7 @@ workflows:
       groups:
         - google_play
       vars:
-        PACKAGE_NAME: "io.codemagic.sample.reactnative"
+        PACKAGE_NAME: "com.app.awesome"
     scripts:
       - name: Set Android SDK location
         script: | 
